@@ -1,5 +1,5 @@
 {
-  "name": "keyedlist",
+  "name": "keyed-list-type",
   "version": "1.0.0",
   "description": "Simple keyed list type for TypeScript",
   "main": "",
