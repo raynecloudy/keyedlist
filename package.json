@@ -1,0 +1,25 @@
+{
+  "name": "keyedlist",
+  "version": "1.0.0",
+  "description": "simple keyed list package",
+  "main": "keyedlist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raynecloudy/keyedlist.git"
+  },
+  "keywords": [
+    "key",
+    "keyed",
+    "keyedlist",
+    "list"
+  ],
+  "author": "raynec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raynecloudy/keyedlist/issues"
+  },
+  "homepage": "https://github.com/raynecloudy/keyedlist#readme"
+}
