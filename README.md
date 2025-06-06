@@ -3,7 +3,7 @@ This is a simple package I've created to have a generalized keyed list, because 
 
 Demo:
 ```ts
-const list: KeyedList<string> = {
+const list: KeyedList<number> = {
     "hello": 0,
     "hi": 1
 };
