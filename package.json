@@ -1,8 +1,9 @@
 {
   "name": "keyedlist",
   "version": "1.0.0",
-  "description": "simple keyed list package",
-  "main": "keyedlist.js",
+  "description": "Simple keyed list type for TypeScript",
+  "main": "",
+  "types": "keyedlist.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
